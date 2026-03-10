@@ -3,10 +3,10 @@
 ## Overview
 This project is an interactive Power BI dashboard built to analyse Shopify sales performance, customer behaviour, and repeat purchase trends. It provides a clear view of revenue, customer retention, regional performance, and product-level insights to support better business decision-making.
 
-## Project File
+📁## Project File
 - `Shopify Analysis.pbix` – main Power BI dashboard file
 
-## Objectives
+🎯## Objectives
 The dashboard was created to help answer key business questions such as:
 - How is overall sales performance trending?
 - How many customers are one-time buyers versus repeat customers?
