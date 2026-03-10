@@ -3,10 +3,10 @@
 ## Overview
 This project is an interactive Power BI dashboard built to analyse Shopify sales performance, customer behaviour, and repeat purchase trends. It provides a clear view of revenue, customer retention, regional performance, and product-level insights to support better business decision-making.
 
-##📁 Project File
+## 📁 Project File
 - `Shopify Analysis.pbix` – main Power BI dashboard file
 
-##🎯Objectives
+## 🎯Objectives
 The dashboard was created to help answer key business questions such as:
 - How is overall sales performance trending?
 - How many customers are one-time buyers versus repeat customers?
@@ -15,7 +15,7 @@ The dashboard was created to help answer key business questions such as:
 - Which payment gateways are most commonly used?
 - How do sales vary by day and hour?
 
-## Key Features
+## ✅ Key Features
 - Net Sales KPI
 - Total Quantity Sold
 - Net Average Order Value
@@ -39,7 +39,7 @@ The main dashboard page presents KPI cards, customer funnel metrics, geographic 
 ### 2. Details Table
 This page provides a detailed transactional view including order number, customer ID, province, city, product type, payment gateway, tax, and total price. It supports deeper analysis and validation of the summary-level dashboard insights.
 
-## Tools & Technologies Used
+## 🔨 Tools & Technologies Used
 - Power BI Desktop
 - DAX
 - Data Modelling
@@ -54,7 +54,7 @@ This page provides a detailed transactional view including order number, custome
 - Trend analysis
 - Business insight generation
 
-## Business Value
+## 💡Business Value
 This dashboard helps businesses monitor sales performance, understand customer retention behaviour, identify repeat purchase trends, and evaluate geographic and product-level performance for data-driven decision-making.
 
 ## How to Use
@@ -65,7 +65,7 @@ This dashboard helps businesses monitor sales performance, understand customer r
 ## Author
 Suprobaha Chowdhury
 
-## Screenshots
+## 📷Screenshots
 
 ### Main Dashboard
 ![Main Dashboard](images/dashboard-overview.png)
